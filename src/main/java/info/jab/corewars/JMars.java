@@ -1,5 +1,6 @@
 ///usr/bin/env jbang "$0" "$@" ; exit $?
 //DEPS org.processing:core:4.5.3
+//DEPS org.jspecify:jspecify:1.0.0
 //SOURCES CoreWarConfig.java
 //SOURCES Instruction.java
 //SOURCES Mars.java
