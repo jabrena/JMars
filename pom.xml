@@ -32,7 +32,7 @@
     <maven-plugin-jar.version>3.5.0</maven-plugin-jar.version>
     <maven-plugin-install.version>3.1.4</maven-plugin-install.version>
     <maven-plugin-deploy.version>3.1.4</maven-plugin-deploy.version>
-    <maven-plugin-site.version>3.12.1</maven-plugin-site.version>
+    <maven-plugin-site.version>3.22.0</maven-plugin-site.version>
     <maven-plugin-project-info-reports.version>3.9.0</maven-plugin-project-info-reports.version>
     <maven-plugin-enforcer.version>3.6.3</maven-plugin-enforcer.version>
     <maven-plugin-versions.version>2.21.0</maven-plugin-versions.version>
